@@ -59,7 +59,7 @@ https://youtu.be/ldpj0BFvA-o
 • Μονάδα Bluetooth HC-06  
 • Υπερηχητικοί αισθητήρες απόστασης HC-SR04  
 • Breadboards (half size και mini)  
-• Tact switches  
+• Tact switch 
 • Κλέμες  
 • Αντιστάσεις  
 • Καλώδια Dupont  
