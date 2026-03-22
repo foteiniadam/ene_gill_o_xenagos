@@ -34,9 +34,10 @@
 
 ## Videos έργου
 
-Ακολουθούν τα videos που συνοδεύουν το έργο μας:  
+Ακολουθούν τα videos που συνοδεύουν το έργο μας:
+
 https://youtu.be/ldpj0BFvA-o
-https://youtu.be/XEGTM63PwEY 
+https://youtu.be/XEGTM63PwEY
 
 ## Εκπαιδευτικοί στόχοι του έργου
 
